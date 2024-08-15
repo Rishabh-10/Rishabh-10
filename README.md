@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m interested in Web Developement and Machine Learning
+- 👀 Web Developement and Machine Learning
 - 💬 Reach me out at rishabhbharota@gmail.com
 
 <!---
